@@ -3,6 +3,11 @@
     "manufacturer": "Mechlovin Studio and Hex Keyboard",
     "url": "",
     "maintainer": "Mechlovin' Studio",
+	"host": {
+		"default": {
+			"nkro": true,
+		}
+	},
     "usb": {
         "vid": "0x4D4C",
         "pid": "0x6C01",
